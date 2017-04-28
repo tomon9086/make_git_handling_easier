@@ -10,5 +10,5 @@ edit gitChangeAuthor.sh
 name="******"
 email="*********@example.com"
 ```
-name: your git author name
+name: your git author name  
 email: your git email
