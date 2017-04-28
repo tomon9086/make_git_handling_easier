@@ -1,5 +1,5 @@
 gethelp() {
-	echo "usage: gitp [<commit message>][-f <ssh address>] [-h]"
+	echo "usage: gitp [<commit message>][-f <ssh address>][-h]"
 	echo "	-f: first commit"
 	echo "	-h: help"
 	exit 1
